@@ -1,0 +1,19 @@
+
+{
+  "name": "mycc",
+  "version": "1.0.0",
+  "description": "Simple chaincode for Digital Democracy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "fabric-contract-api": "^2.5.0",
+    "fabric-shim": "^2.5.0"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "author": "Ben Ricky",
+  "license": "Apache-2.0"
+}

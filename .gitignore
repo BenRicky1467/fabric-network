@@ -1,0 +1,18 @@
+# Fabric generated files and sensitive keys
+crypto-config/
+organizations/
+channel-artifacts/
+tx-artifacts/
+*.block
+*.tx
+*.tar.gz
+*.pem
+*.sk
+configtx.yaml
+core.yaml
+genesis.block
+Org1MSPanchors.tx
+Org2MSPanchors.tx
+.docker-compose.yaml.swp
+fabric-samples/
+
